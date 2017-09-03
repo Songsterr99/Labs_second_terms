@@ -1,0 +1,12 @@
+D:\labs\Regular\Regular\bin\Debug\Regular.exe.config
+D:\labs\Regular\Regular\bin\Debug\Regular.exe
+D:\labs\Regular\Regular\bin\Debug\Regular.pdb
+D:\labs\Regular\Regular\obj\Debug\Regular.csprojResolveAssemblyReference.cache
+D:\labs\Regular\Regular\obj\Debug\Regular.exe
+D:\labs\Regular\Regular\obj\Debug\Regular.pdb
+D:\labs_second_term\Regular\Regular\bin\Debug\Regular.exe.config
+D:\labs_second_term\Regular\Regular\bin\Debug\Regular.exe
+D:\labs_second_term\Regular\Regular\bin\Debug\Regular.pdb
+D:\labs_second_term\Regular\Regular\obj\Debug\Regular.csprojResolveAssemblyReference.cache
+D:\labs_second_term\Regular\Regular\obj\Debug\Regular.exe
+D:\labs_second_term\Regular\Regular\obj\Debug\Regular.pdb

@@ -1,0 +1,9 @@
+C:\Users\Dantes\documents\visual studio 2017\Projects\mother\mother\bin\Debug\mother.exe.config
+C:\Users\Dantes\documents\visual studio 2017\Projects\mother\mother\bin\Debug\mother.exe
+C:\Users\Dantes\documents\visual studio 2017\Projects\mother\mother\bin\Debug\mother.pdb
+C:\Users\Dantes\documents\visual studio 2017\Projects\mother\mother\obj\Debug\mother.csprojResolveAssemblyReference.cache
+C:\Users\Dantes\documents\visual studio 2017\Projects\mother\mother\obj\Debug\mother.exe
+C:\Users\Dantes\documents\visual studio 2017\Projects\mother\mother\obj\Debug\mother.pdb
+D:\labs_second_term\mother\mother\obj\Debug\mother.csprojResolveAssemblyReference.cache
+D:\labs_second_term\mother\mother\obj\Debug\mother.exe
+D:\labs_second_term\mother\mother\obj\Debug\mother.pdb
